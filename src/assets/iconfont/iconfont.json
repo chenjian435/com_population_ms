@@ -1,0 +1,37 @@
+{
+  "id": "3962699",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34456407",
+      "name": "caret-left",
+      "font_class": "caret-left",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "34456409",
+      "name": "caret-right",
+      "font_class": "caret-right",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "34456413",
+      "name": "arrow-left",
+      "font_class": "arrow-left",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "34456417",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
